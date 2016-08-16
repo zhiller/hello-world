@@ -1,5 +1,5 @@
 # hello-world
-Initial respository
+Initial repository
 
 Hello!
 
